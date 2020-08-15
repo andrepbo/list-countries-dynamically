@@ -26,14 +26,12 @@
 Feature of listing countries dynamically using React.
 
 ### Technologies used in this project:
-
-- [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [Yarn](https://yarnpkg.com/)
 
 ## How to use
 
-Clone and run the application from the command line. You'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) installed on your computer.
+Clone and run the application from the command line. You'll need [Git](https://git-scm.com) and [Yarn](https://yarnpkg.com/) installed on your computer.
 
 From the command line:
 
