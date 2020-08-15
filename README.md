@@ -23,10 +23,7 @@
 <br />
 
 ## Project
-
-Ecoleta is a project developed based on the International Environment Week.
-The objective is to create an ecosystem where people connect with companies that collect specific waste,
-to carry out the conscious disposal of products such as lamps, batteries, cooking oil, etc.
+Feature of listing countries dynamically using React.
 
 ### Technologies used in this project:
 
