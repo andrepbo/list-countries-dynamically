@@ -1,5 +1,6 @@
-![git-capa](https://user-images.githubusercontent.com/8798970/90303515-e9ee9d80-de84-11ea-8856-58b43e64c3ce.gif)
-
+<p align="center">
+  <kbd><img src="https://user-images.githubusercontent.com/8798970/90303515-e9ee9d80-de84-11ea-8856-58b43e64c3ce.gif" /></kbd>
+</p>
 <h4 align="center"> 
 	Practical way to list countries dynamically with React
 </h4>
