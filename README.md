@@ -31,9 +31,7 @@ Feature of listing countries dynamically using React.
 
 ## How to use
 
-Clone and run the application from the command line. You'll need [Git](https://git-scm.com) and [Yarn](https://yarnpkg.com/) installed on your computer.
-
-From the command line:
+Clone and run the application from the command line:
 
 ```bash
 # Clone the repository
