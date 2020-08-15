@@ -23,7 +23,7 @@
 <br />
 
 ## Project
-Feature of listing countries dynamically using React. Do not consider the population quantity, they are fake data.
+Feature of listing countries dynamically using React. Do not consider the population quantity, they are non-updated data.
 
 ### Technologies used in this project:
 - [React](https://reactjs.org)
